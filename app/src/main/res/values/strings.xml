@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="txtbtn">ANDROID SCROLLVIEW EXAMPLE</string>
+    <string name="android_checkbox_example">Android CheckBox Example</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="xml">XML</string>
+    <string name="html">HTML</string>
+    <string name="css">CSS</string>
+    <string name="jquery">jQuery</string>
+    <string name="asp">ASP</string>
+    <string name="php">PHP</string>
+    <string name="android_edittext_example">Android EditText Example</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="register">Register</string>
+    <string name="volver_a_imagebuttons">Volver a ImageButtons</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="volver_a_edittext">VOLVER A EDITTEXT</string>
+    <string name="android_switch_button_1">Android Switch Button 1</string>
+    <string name="android_switch_button">Android Switch Button</string>
+    <string name="android_switch_button_2">Android Switch Button 2</string>
+    <string name="volver">VOLVER</string>
+    <string name="first_togglebutton">First ToggleButton</string>
+    <string name="togglebutton_status">ToggleButton Status</string>
+    <string name="second_togglebutton">Second ToggleButton</string>
+    <string name="show">Show</string>
+    <string name="enter_a_number_bettwen_0_and_100">Enter a number bettwen 0 and 100</string>
+    <string-array name="android_layout_arrays">
+        <item>Choose a Layout</item>
+        <item>LinearLayout</item>
+        <item>RelativeLayout</item>
+        <item>FrameLayout</item>
+        <item>TableLayout</item>
+        <item>AbsoluteLayout</item>
+        <item>GridLayout</item>
+    </string-array>
+</resources>
